@@ -22,8 +22,8 @@
         "url": "https://github.com/consumet/consumet.ts/issues"
     },
     "homepage": "https://github.com/consumet/consumet.ts#readme",
-    "dependencies": {
-        "@consumet/extensions": "github:consumet/consumet.ts",
+  "dependencies": {
+        "@consumet/extensions": "^1.5.1",
         "@fastify/cors": "^8.5.0",
         "@types/node": "^18.11.17",
         "@types/ws": "^8.5.3",
